@@ -1,0 +1,6 @@
+/tools/
+/importer/target/
+/studio/
+/stories/**
+!/stories/.gitkeep
+/stories/Pierre et le loup
